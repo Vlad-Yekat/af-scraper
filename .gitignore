@@ -1,0 +1,20 @@
+*.pyc
+.idea/
+*~
+# Virtualenv
+Scripts/*
+Lib/*
+include/*
+tcl/*
+venv/*
+pip-selfcheck.json
+
+# VSCode configs
+.vscode/
+node_modules
+package-lock.json
+*.db
+*.db-journal
+
+#Postgres DB
+postgresql/*

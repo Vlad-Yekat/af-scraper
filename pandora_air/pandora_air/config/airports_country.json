@@ -1,0 +1,1546 @@
+{
+  "airports": [
+    {
+      "iataCode": "AAL",
+      "name": "Aalborg",
+      "regionName": "EU",
+      "countryCode": "DK"
+    },
+    {
+      "iataCode": "AAR",
+      "name": "Aarhus",
+      "regionName": "EU",
+      "countryCode": "DK"
+    },
+    {
+      "iataCode": "ABZ",
+      "name": "Aberdeen",
+      "regionName": "UK",
+      "countryCode": "UK"
+    },
+    {
+      "iataCode": "ACE",
+      "name": "Lanzarote",
+      "regionName": "EU",
+      "countryCode": "SPA"
+    },
+    {
+      "iataCode": "AGA",
+      "name": "Agadir",
+      "regionName": "AFR",
+      "countryCode": "MOR"
+    },
+    {
+      "iataCode": "AGP",
+      "name": "Malaga",
+      "regionName": "EU",
+      "countryCode": "SPA"
+    },
+    {
+      "iataCode": "AHO",
+      "name": "Alghero",
+      "regionName": "EU",
+      "countryCode": "ITA"
+    },
+    {
+      "iataCode": "ALC",
+      "name": "Alicante",
+      "regionName": "EU",
+      "countryCode": "SPA"
+    },
+    {
+      "iataCode": "AMM",
+      "name": "Amman Jordan",
+      "regionName": "OTHER",
+      "countryCode": "JOR"
+    },
+    {
+      "iataCode": "AMS",
+      "name": "Amsterdam",
+      "regionName": "EU",
+      "countryCode": "NID"
+    },
+    {
+      "iataCode": "AOI",
+      "name": "Ancona",
+      "regionName": "EU",
+      "countryCode": "ITA"
+    },
+    {
+      "iataCode": "AQJ",
+      "name": "Aqaba Jordan",
+      "regionName": "OTHER",
+      "countryCode": "JOR"
+    },
+    {
+      "iataCode": "ATH",
+      "name": "Athens",
+      "regionName": "EU",
+      "countryCode": "GRE"
+    },
+    {
+      "iataCode": "BCN",
+      "name": "Barcelona",
+      "regionName": "EU",
+      "countryCode": "SPA"
+    },
+    {
+      "iataCode": "BDS",
+      "name": "Brindisi",
+      "regionName": "EU",
+      "countryCode": "ITA"
+    },
+    {
+      "iataCode": "BES",
+      "name": "Brest",
+      "regionName": "EU",
+      "countryCode": "FRA"
+    },
+    {
+      "iataCode": "BEY",
+      "name": "Beirut",
+      "regionName": "OTHER",
+      "countryCode": "LEB"
+    },
+    {
+      "iataCode": "BFS",
+      "name": "Belfast International",
+      "regionName": "IE",
+      "countryCode": "IRL"
+    },
+    {
+      "iataCode": "BGY",
+      "name": "Milan Bergamo",
+      "regionName": "EU",
+      "countryCode": "ITA"
+    },
+    {
+      "iataCode": "BHX",
+      "name": "Birmingham",
+      "regionName": "UK",
+      "countryCode": "UK"
+    },
+    {
+      "iataCode": "BIO",
+      "name": "Bilbao",
+      "regionName": "EU",
+      "countryCode": "SPA"
+    },
+    {
+      "iataCode": "BIQ",
+      "name": "Biarritz",
+      "regionName": "EU",
+      "countryCode": "FRA"
+    },
+    {
+      "iataCode": "BJV",
+      "name": "Bodrum",
+      "regionName": "OTHER",
+      "countryCode": "TUR"
+    },
+    {
+      "iataCode": "BLL",
+      "name": "Billund",
+      "regionName": "EU",
+      "countryCode": "DK"
+    },
+    {
+      "iataCode": "BLQ",
+      "name": "Bologna",
+      "regionName": "EU",
+      "countryCode": "ITA"
+    },
+    {
+      "iataCode": "BNX",
+      "name": "Banja Luka",
+      "regionName": "EU",
+      "countryCode": "BOS"
+    },
+    {
+      "iataCode": "BOD",
+      "name": "Bordeaux",
+      "regionName": "EU",
+      "countryCode": "FRA"
+    },
+    {
+      "iataCode": "BOH",
+      "name": "Bournemouth",
+      "regionName": "UK",
+      "countryCode": "UK"
+    },
+    {
+      "iataCode": "BOJ",
+      "name": "Burgas",
+      "regionName": "EU",
+      "countryCode": "BOL"
+    },
+    {
+      "iataCode": "BRE",
+      "name": "Bremen",
+      "regionName": "EU",
+      "countryCode": "GER"
+    },
+    {
+      "iataCode": "BRI",
+      "name": "Bari",
+      "regionName": "EU",
+      "countryCode": "ITA"
+    },
+    {
+      "iataCode": "BRQ",
+      "name": "Brno",
+      "regionName": "EU",
+      "countryCode": "CHE"
+    },
+    {
+      "iataCode": "BRS",
+      "name": "Bristol",
+      "regionName": "UK",
+      "countryCode": "UK"
+    },
+    {
+      "iataCode": "BRU",
+      "name": "Brussels",
+      "regionName": "EU",
+      "countryCode": "BEL"
+    },
+    {
+      "iataCode": "BSL",
+      "name": "Basel",
+      "regionName": "EU",
+      "countryCode": "SWE"
+    },
+    {
+      "iataCode": "BTS",
+      "name": "Bratislava",
+      "regionName": "EU",
+      "countryCode": "SLO"
+    },
+    {
+      "iataCode": "BUD",
+      "name": "Budapest",
+      "regionName": "EU",
+      "countryCode": "HUN"
+    },
+    {
+      "iataCode": "BVA",
+      "name": "Paris Beauvais",
+      "regionName": "EU",
+      "countryCode": "FRA"
+    },
+    {
+      "iataCode": "BVE",
+      "name": "Brive",
+      "regionName": "EU",
+      "countryCode": "FRA"
+    },
+    {
+      "iataCode": "BZG",
+      "name": "Bydgoszcz",
+      "regionName": "EU",
+      "countryCode": "POL"
+    },
+    {
+      "iataCode": "BZR",
+      "name": "Beziers",
+      "regionName": "EU",
+      "countryCode": "FRA"
+    },
+    {
+      "iataCode": "CAG",
+      "name": "Cagliari",
+      "regionName": "EU",
+      "countryCode": "ITA"
+    },
+    {
+      "iataCode": "CCF",
+      "name": "Carcassonne",
+      "regionName": "EU",
+      "countryCode": "FRA"
+    },
+    {
+      "iataCode": "CDT",
+      "name": "Castellon (Valencia)",
+      "regionName": "EU",
+      "countryCode": "ITA"
+    },
+    {
+      "iataCode": "CFE",
+      "name": "Clermont",
+      "regionName": "EU",
+      "countryCode": "FRA"
+    },
+    {
+      "iataCode": "CFU",
+      "name": "Corfu",
+      "regionName": "EU",
+      "countryCode": "GRE"
+    },
+    {
+      "iataCode": "CGN",
+      "name": "Cologne",
+      "regionName": "EU",
+      "countryCode": "GER"
+    },
+    {
+      "iataCode": "CHQ",
+      "name": "Chania",
+      "regionName": "EU",
+      "countryCode": "GRE"
+    },
+    {
+      "iataCode": "CIA",
+      "name": "Rome Ciampino",
+      "regionName": "EU",
+      "countryCode": "ITA"
+    },
+    {
+      "iataCode": "CIY",
+      "name": "Comiso",
+      "regionName": "EU",
+      "countryCode": "ITA"
+    },
+    {
+      "iataCode": "CLJ",
+      "name": "Cluj",
+      "regionName": "EU",
+      "countryCode": "ITA"
+    },
+    {
+      "iataCode": "CMN",
+      "name": "Casablanca",
+      "regionName": "AFR",
+      "countryCode": "MOR"
+    },
+    {
+      "iataCode": "CPH",
+      "name": "Copenhagen",
+      "regionName": "UE",
+      "countryCode": "DK"
+    },
+    {
+      "iataCode": "CRA",
+      "name": "Craiova",
+      "regionName": "EU",
+      "countryCode": "ROM"
+    },
+    {
+      "iataCode": "CRL",
+      "name": "Brussels Charleroi",
+      "regionName": "EU",
+      "countryCode": "BEL"
+    },
+    {
+      "iataCode": "CRV",
+      "name": "Crotone",
+      "regionName": "EU",
+      "countryCode": "ITA"
+    },
+    {
+      "iataCode": "CTA",
+      "name": "Catania",
+      "regionName": "EU",
+      "countryCode": "ITA"
+    },
+    {
+      "iataCode": "CUF",
+      "name": "Cuneo",
+      "regionName": "EU",
+      "countryCode": "ITA"
+    },
+    {
+      "iataCode": "CWL",
+      "name": "Cardiff",
+      "regionName": "UK",
+      "countryCode": "UK"
+    },
+    {
+      "iataCode": "DBV",
+      "name": "Dubrovnik",
+      "regionName": "EU",
+      "countryCode": "CRO"
+    },
+    {
+      "iataCode": "DLE",
+      "name": "Dole",
+      "regionName": "EU",
+      "countryCode": "FRA"
+    },
+    {
+      "iataCode": "DLM",
+      "name": "Dalaman",
+      "regionName": "OTHER",
+      "countryCode": "TUR"
+    },
+    {
+      "iataCode": "DNR",
+      "name": "Dinard",
+      "regionName": "EU",
+      "countryCode": "FRA"
+    },
+    {
+      "iataCode": "DRS",
+      "name": "Dresden",
+      "regionName": "EU",
+      "countryCode": "GER"
+    },
+    {
+      "iataCode": "DTM",
+      "name": "Dortmund",
+      "regionName": "EU",
+      "countryCode": "GER"
+    },
+    {
+      "iataCode": "DUB",
+      "name": "Dublin",
+      "regionName": "IE",
+      "countryCode": "IE"
+    },
+    {
+      "iataCode": "DUS",
+      "name": "Dusseldorf Int.",
+      "regionName": "EU",
+      "countryCode": "GER"
+    },
+    {
+      "iataCode": "EDI",
+      "name": "Edinburgh",
+      "regionName": "UK",
+      "countryCode": "UK"
+    },
+    {
+      "iataCode": "EFL",
+      "name": "Kefalonia",
+      "regionName": "EU",
+      "countryCode": "GRE"
+    },
+    {
+      "iataCode": "EGC",
+      "name": "Bergerac",
+      "regionName": "EU",
+      "countryCode": "FRA"
+    },
+    {
+      "iataCode": "EIN",
+      "name": "Eindhoven",
+      "regionName": "EU",
+      "countryCode": "NED"
+    },
+    {
+      "iataCode": "EMA",
+      "name": "East Midlands",
+      "regionName": "UK",
+      "countryCode": "UK"
+    },
+    {
+      "iataCode": "ERF",
+      "name": "Erfurt",
+      "regionName": "EU",
+      "countryCode": "GER"
+    },
+    {
+      "iataCode": "ESU",
+      "name": "Essaouira",
+      "regionName": "AFR",
+      "countryCode": "MOR"
+    },
+    {
+      "iataCode": "ETM",
+      "name": "Eilat Ramon",
+      "regionName": "OTHER",
+      "countryCode": "ISR"
+    },
+    {
+      "iataCode": "EXT",
+      "name": "Exeter",
+      "regionName": "UK",
+      "countryCode": "UK"
+    },
+    {
+      "iataCode": "FAO",
+      "name": "Faro",
+      "regionName": "EU",
+      "countryCode": "POR"
+    },
+    {
+      "iataCode": "FCO",
+      "name": "Rome Fiumicino",
+      "regionName": "EU",
+      "countryCode": "ITA"
+    },
+    {
+      "iataCode": "FDH",
+      "name": "Friedrichshafen",
+      "regionName": "EU",
+      "countryCode": "GER"
+    },
+    {
+      "iataCode": "FEZ",
+      "name": "Fez",
+      "regionName": "AFR",
+      "countryCode": "MOR"
+    },
+    {
+      "iataCode": "FKB",
+      "name": "Karlsruhe / Baden-Baden",
+      "regionName": "EU",
+      "countryCode": "GER"
+    },
+    {
+      "iataCode": "FMM",
+      "name": "Memmingen",
+      "regionName": "EU",
+      "countryCode": "GER"
+    },
+    {
+      "iataCode": "FMO",
+      "name": "Münster",
+      "regionName": "EU",
+      "countryCode": "GER"
+    },
+    {
+      "iataCode": "FNI",
+      "name": "Nimes",
+      "regionName": "EU",
+      "countryCode": "FRA"
+    },
+    {
+      "iataCode": "FRA",
+      "name": "Frankfurt International",
+      "regionName": "EU",
+      "countryCode": "GER"
+    },
+    {
+      "iataCode": "FSC",
+      "name": "Figari",
+      "regionName": "EU",
+      "countryCode": "FRA"
+    },
+    {
+      "iataCode": "FUE",
+      "name": "Fuerteventura",
+      "regionName": "EU",
+      "countryCode": "SPA"
+    },
+    {
+      "iataCode": "GDN",
+      "name": "Gdansk",
+      "regionName": "EU",
+      "countryCode": "POL"
+    },
+    {
+      "iataCode": "GLA",
+      "name": "Glasgow",
+      "regionName": "UK",
+      "countryCode": "UK"
+    },
+    {
+      "iataCode": "GNB",
+      "name": "Grenoble",
+      "regionName": "EU",
+      "countryCode": "FRA"
+    },
+    {
+      "iataCode": "GOA",
+      "name": "Genoa",
+      "regionName": "EU",
+      "countryCode": "ITA"
+    },
+    {
+      "iataCode": "GOT",
+      "name": "Göteborg Landvetter",
+      "regionName": "EU",
+      "countryCode": "SE"
+    },
+    {
+      "iataCode": "GRO",
+      "name": "Barcelona Girona",
+      "regionName": "EU",
+      "countryCode": "SPA"
+    },
+    {
+      "iataCode": "GRZ",
+      "name": "Graz",
+      "regionName": "EU",
+      "countryCode": "AUS"
+    },
+    {
+      "iataCode": "GVA",
+      "name": "Geneva",
+      "regionName": "EU",
+      "countryCode": "SWE"
+    },
+    {
+      "iataCode": "HAJ",
+      "name": "Hannover",
+      "regionName": "EU",
+      "countryCode": "GER"
+    },
+    {
+      "iataCode": "HAM",
+      "name": "Hamburg",
+      "regionName": "EU",
+      "countryCode": "GER"
+    },
+    {
+      "iataCode": "HAU",
+      "name": "Haugesund",
+      "regionName": "EU",
+      "countryCode": "NO"
+    },
+    {
+      "iataCode": "HER",
+      "name": "Heraklion Crete",
+      "regionName": "EU",
+      "countryCode": "GRE"
+    },
+    {
+      "iataCode": "HHN",
+      "name": "Frankfurt Hahn",
+      "regionName": "EU",
+      "countryCode": "GER"
+    },
+    {
+      "iataCode": "HRK",
+      "name": "Kharkiv International",
+      "regionName": "OTHER",
+      "countryCode": "UKR"
+    },
+    {
+      "iataCode": "IBZ",
+      "name": "Ibiza",
+      "regionName": "EU",
+      "countryCode": "SPA"
+    },
+    {
+      "iataCode": "INI",
+      "name": "Nis",
+      "regionName": "EU",
+      "countryCode": "SER"
+    },
+    {
+      "iataCode": "INN",
+      "name": "Innsbruck",
+      "regionName": "EU",
+      "countryCode": "AUS"
+    },
+    {
+      "iataCode": "JMK",
+      "name": "Mykonos",
+      "regionName": "EU",
+      "countryCode": "GRE"
+    },
+    {
+      "iataCode": "JTR",
+      "name": "Santorini",
+      "regionName": "EU",
+      "countryCode": "GRE"
+    },
+    {
+      "iataCode": "KBP",
+      "name": "Kyiv",
+      "regionName": "OTHER",
+      "countryCode": "UKR"
+    },
+    {
+      "iataCode": "KGS",
+      "name": "Kos",
+      "regionName": "EU",
+      "countryCode": "GRE"
+    },
+    {
+      "iataCode": "KIR",
+      "name": "Kerry",
+      "regionName": "IE",
+      "countryCode": "IE"
+    },
+    {
+      "iataCode": "KLX",
+      "name": "Kalamata",
+      "regionName": "EU",
+      "countryCode": "GRE"
+    },
+    {
+      "iataCode": "KRK",
+      "name": "Krakow",
+      "regionName": "EU",
+      "countryCode": "POL"
+    },
+    {
+      "iataCode": "KSC",
+      "name": "Kosice",
+      "regionName": "EU",
+      "countryCode": "SLO"
+    },
+    {
+      "iataCode": "KTW",
+      "name": "Katowice",
+      "regionName": "EU",
+      "countryCode": "POL"
+    },
+    {
+      "iataCode": "KUN",
+      "name": "Kaunas",
+      "regionName": "EU",
+      "countryCode": "LIT"
+    },
+    {
+      "iataCode": "KUT",
+      "name": "Kutaisi",
+      "regionName": "OTHER",
+      "countryCode": "GRG"
+    },
+    {
+      "iataCode": "KVA",
+      "name": "Kavala International",
+      "regionName": "EU",
+      "countryCode": "GRE"
+    },
+    {
+      "iataCode": "LBA",
+      "name": "Leeds Bradford",
+      "regionName": "UK",
+      "countryCode": "UK"
+    },
+    {
+      "iataCode": "LCA",
+      "name": "Larnaca",
+      "regionName": "EU",
+      "countryCode": "KIP"
+    },
+    {
+      "iataCode": "LCJ",
+      "name": "Lodz",
+      "regionName": "EU",
+      "countryCode": "POL"
+    },
+    {
+      "iataCode": "LDE",
+      "name": "Lourdes",
+      "regionName": "EU",
+      "countryCode": "FRA"
+    },
+    {
+      "iataCode": "LDY",
+      "name": "Derry",
+      "regionName": "IE",
+      "countryCode": "IE"
+    },
+    {
+      "iataCode": "LED",
+      "name": "St. Petersburg",
+      "regionName": "RUS",
+      "countryCode": "RUS"
+    },
+    {
+      "iataCode": "LEI",
+      "name": "Almeria",
+      "regionName": "EU",
+      "countryCode": "SPA"
+    },
+    {
+      "iataCode": "LEJ",
+      "name": "Leipzig",
+      "regionName": "EU",
+      "countryCode": "GER"
+    },
+    {
+      "iataCode": "LGW",
+      "name": "London Gatwick",
+      "regionName": "UK",
+      "countryCode": "UK"
+    },
+    {
+      "iataCode": "LIG",
+      "name": "Limoges",
+      "regionName": "EU",
+      "countryCode": "FRA"
+    },
+    {
+      "iataCode": "LIL",
+      "name": "Lille",
+      "regionName": "EU",
+      "countryCode": "FRA"
+    },
+    {
+      "iataCode": "LIS",
+      "name": "Lisbon",
+      "regionName": "EU",
+      "countryCode": "POR"
+    },
+    {
+      "iataCode": "LNZ",
+      "name": "Linz",
+      "regionName": "EU",
+      "countryCode": "AUS"
+    },
+    {
+      "iataCode": "LPA",
+      "name": "Gran Canaria",
+      "regionName": "EU",
+      "countryCode": "SPA"
+    },
+    {
+      "iataCode": "LPL",
+      "name": "Liverpool",
+      "regionName": "UK",
+      "countryCode": "UK"
+    },
+    {
+      "iataCode": "LPP",
+      "name": "Lappeenranta",
+      "regionName": "EU",
+      "countryCode": "FI"
+    },
+    {
+      "iataCode": "LRH",
+      "name": "La Rochelle",
+      "regionName": "EU",
+      "countryCode": "FRA"
+    },
+    {
+      "iataCode": "LRT",
+      "name": "Lorient",
+      "regionName": "EU",
+      "countryCode": "FRA"
+    },
+    {
+      "iataCode": "LTN",
+      "name": "London Luton",
+      "regionName": "UK",
+      "countryCode": "UK"
+    },
+    {
+      "iataCode": "LUX",
+      "name": "Luxembourg",
+      "regionName": "EU",
+      "countryCode": "LUX"
+    },
+    {
+      "iataCode": "LUZ",
+      "name": "Lublin",
+      "regionName": "EU",
+      "countryCode": "POL"
+    },
+    {
+      "iataCode": "LWO",
+      "name": "Lviv",
+      "regionName": "OTHER",
+      "countryCode": "UKR"
+    },
+    {
+      "iataCode": "LYS",
+      "name": "Lyon",
+      "regionName": "EU",
+      "countryCode": "FRA"
+    },
+    {
+      "iataCode": "MAD",
+      "name": "Madrid",
+      "regionName": "EU",
+      "countryCode": "SPA"
+    },
+    {
+      "iataCode": "MAH",
+      "name": "Menorca",
+      "regionName": "EU",
+      "countryCode": "SPA"
+    },
+    {
+      "iataCode": "MAN",
+      "name": "Manchester",
+      "regionName": "UK",
+      "countryCode": "UK"
+    },
+    {
+      "iataCode": "MJV",
+      "name": "Murcia",
+      "regionName": "EU",
+      "countryCode": "SPA"
+    },
+    {
+      "iataCode": "MLA",
+      "name": "Malta",
+      "regionName": "EU",
+      "countryCode": "MAL"
+    },
+    {
+      "iataCode": "MMX",
+      "name": "Malmo",
+      "regionName": "EU",
+      "countryCode": "SE"
+    },
+    {
+      "iataCode": "MPL",
+      "name": "Montpellier",
+      "regionName": "EU",
+      "countryCode": "FRA"
+    },
+    {
+      "iataCode": "MRS",
+      "name": "Marseille",
+      "regionName": "EU",
+      "countryCode": "FRA"
+    },
+    {
+      "iataCode": "MST",
+      "name": "Maastricht",
+      "regionName": "EU",
+      "countryCode": "NED"
+    },
+    {
+      "iataCode": "MUC",
+      "name": "Munich",
+      "regionName": "EU",
+      "countryCode": "GER"
+    },
+    {
+      "iataCode": "MXP",
+      "name": "Milan Malpensa",
+      "regionName": "EU",
+      "countryCode": "ITA"
+    },
+    {
+      "iataCode": "NAP",
+      "name": "Naples",
+      "regionName": "EU",
+      "countryCode": "ITA"
+    },
+    {
+      "iataCode": "NCE",
+      "name": "Nice",
+      "regionName": "EU",
+      "countryCode": "FRA"
+    },
+    {
+      "iataCode": "NCL",
+      "name": "Newcastle",
+      "regionName": "UK",
+      "countryCode": "UK"
+    },
+    {
+      "iataCode": "NDR",
+      "name": "Nador",
+      "regionName": "AFR",
+      "countryCode": "MOR"
+    },
+    {
+      "iataCode": "NOC",
+      "name": "Knock",
+      "regionName": "IE",
+      "countryCode": "IE"
+    },
+    {
+      "iataCode": "NQY",
+      "name": "Newquay Cornwall",
+      "regionName": "UK",
+      "countryCode": "UK"
+    },
+    {
+      "iataCode": "NRN",
+      "name": "Dusseldorf Weeze",
+      "regionName": "EU",
+      "countryCode": "GER"
+    },
+    {
+      "iataCode": "NTE",
+      "name": "Nantes",
+      "regionName": "EU",
+      "countryCode": "FRA"
+    },
+    {
+      "iataCode": "NUE",
+      "name": "Nuremberg",
+      "regionName": "EU",
+      "countryCode": "GER"
+    },
+    {
+      "iataCode": "NYO",
+      "name": "Stockholm Skavsta",
+      "regionName": "EU",
+      "countryCode": "SE"
+    },
+    {
+      "iataCode": "ODS",
+      "name": "Odesa International",
+      "regionName": "OTHER",
+      "countryCode": "UKR"
+    },
+    {
+      "iataCode": "OMR",
+      "name": "Oradea",
+      "regionName": "EU",
+      "countryCode": "ROM"
+    },
+    {
+      "iataCode": "OPO",
+      "name": "Porto",
+      "regionName": "EU",
+      "countryCode": "POR"
+    },
+    {
+      "iataCode": "ORK",
+      "name": "Cork",
+      "regionName": "IE",
+      "countryCode": "IE"
+    },
+    {
+      "iataCode": "OSL",
+      "name": "Oslo",
+      "regionName": "EU",
+      "countryCode": "NO"
+    },
+    {
+      "iataCode": "OSR",
+      "name": "Ostrava",
+      "regionName": "EU",
+      "countryCode": "CHE"
+    },
+    {
+      "iataCode": "OTP",
+      "name": "Bucharest",
+      "regionName": "EU",
+      "countryCode": "ROM"
+    },
+    {
+      "iataCode": "OUD",
+      "name": "Oujda",
+      "regionName": "AFR",
+      "countryCode": "MOR"
+    },
+    {
+      "iataCode": "OZZ",
+      "name": "Ouarzazate",
+      "regionName": "AFR",
+      "countryCode": "MOR"
+    },
+    {
+      "iataCode": "PAD",
+      "name": "Paderborn",
+      "regionName": "EU",
+      "countryCode": "GER"
+    },
+    {
+      "iataCode": "PDL",
+      "name": "Ponta Delgada",
+      "regionName": "EU",
+      "countryCode": "POR"
+    },
+    {
+      "iataCode": "PDV",
+      "name": "Plovdiv",
+      "regionName": "EU",
+      "countryCode": "BUL"
+    },
+    {
+      "iataCode": "PED",
+      "name": "Pardubice",
+      "regionName": "EU",
+      "countryCode": "CHE"
+    },
+    {
+      "iataCode": "PEG",
+      "name": "Perugia",
+      "regionName": "EU",
+      "countryCode": "ITA"
+    },
+    {
+      "iataCode": "PFO",
+      "name": "Paphos",
+      "regionName": "EU",
+      "countryCode": "KIP"
+    },
+    {
+      "iataCode": "PGF",
+      "name": "Perpignan",
+      "regionName": "EU",
+      "countryCode": "FRA"
+    },
+    {
+      "iataCode": "PIK",
+      "name": "Glasgow Prestwick",
+      "regionName": "UK",
+      "countryCode": "UK"
+    },
+    {
+      "iataCode": "PIS",
+      "name": "Poitiers",
+      "regionName": "EU",
+      "countryCode": "FRA"
+    },
+    {
+      "iataCode": "PLQ",
+      "name": "Palanga",
+      "regionName": "EU",
+      "countryCode": "LAT"
+    },
+    {
+      "iataCode": "PMF",
+      "name": "Parma",
+      "regionName": "EU",
+      "countryCode": "ITA"
+    },
+    {
+      "iataCode": "PMI",
+      "name": "Palma de Mallorca",
+      "regionName": "EU",
+      "countryCode": "MAL"
+    },
+    {
+      "iataCode": "PMO",
+      "name": "Palermo",
+      "regionName": "EU",
+      "countryCode": "ITA"
+    },
+    {
+      "iataCode": "POZ",
+      "name": "Poznan",
+      "regionName": "EU",
+      "countryCode": "POL"
+    },
+    {
+      "iataCode": "PRG",
+      "name": "Prague",
+      "regionName": "EU",
+      "countryCode": "CHE"
+    },
+    {
+      "iataCode": "PSA",
+      "name": "Pisa",
+      "regionName": "EU",
+      "countryCode": "ITA"
+    },
+    {
+      "iataCode": "PSR",
+      "name": "Pescara",
+      "regionName": "EU",
+      "countryCode": "ITA"
+    },
+    {
+      "iataCode": "PUY",
+      "name": "Pula",
+      "regionName": "EU",
+      "countryCode": "CRO"
+    },
+    {
+      "iataCode": "PVK",
+      "name": "Preveza - Aktion",
+      "regionName": "EU",
+      "countryCode": "GRE"
+    },
+    {
+      "iataCode": "RAK",
+      "name": "Marrakesh",
+      "regionName": "AFR",
+      "countryCode": "MOR"
+    },
+    {
+      "iataCode": "RBA",
+      "name": "Rabat",
+      "regionName": "AFR",
+      "countryCode": "MOR"
+    },
+    {
+      "iataCode": "RDZ",
+      "name": "Rodez",
+      "regionName": "EU",
+      "countryCode": "FRA"
+    },
+    {
+      "iataCode": "REU",
+      "name": "Barcelona Reus",
+      "regionName": "EU",
+      "countryCode": "SPA"
+    },
+    {
+      "iataCode": "RHO",
+      "name": "Rhodes",
+      "regionName": "EU",
+      "countryCode": "GRE"
+    },
+    {
+      "iataCode": "RIX",
+      "name": "Riga",
+      "regionName": "EU",
+      "countryCode": "LAT"
+    },
+    {
+      "iataCode": "RJK",
+      "name": "Rijeka",
+      "regionName": "EU",
+      "countryCode": "CRO"
+    },
+    {
+      "iataCode": "RLG",
+      "name": "Rostock",
+      "regionName": "EU",
+      "countryCode": "GER"
+    },
+    {
+      "iataCode": "RMI",
+      "name": "Rimini",
+      "regionName": "EU",
+      "countryCode": "ITA"
+    },
+    {
+      "iataCode": "RMU",
+      "name": "Murcia International",
+      "regionName": "EU",
+      "countryCode": "SPA"
+    },
+    {
+      "iataCode": "RZE",
+      "name": "Rzeszow",
+      "regionName": "EU",
+      "countryCode": "POL"
+    },
+    {
+      "iataCode": "SCQ",
+      "name": "Santiago",
+      "regionName": "EU",
+      "countryCode": "SPA"
+    },
+    {
+      "iataCode": "SDR",
+      "name": "Santander",
+      "regionName": "EU",
+      "countryCode": "SPA"
+    },
+    {
+      "iataCode": "SEN",
+      "name": "London Southend",
+      "regionName": "UK",
+      "countryCode": "UK"
+    },
+    {
+      "iataCode": "SKG",
+      "name": "Thessaloniki",
+      "regionName": "EU",
+      "countryCode": "GRE"
+    },
+    {
+      "iataCode": "SNN",
+      "name": "Shannon",
+      "regionName": "IE",
+      "countryCode": "IE"
+    },
+    {
+      "iataCode": "SOF",
+      "name": "Sofia",
+      "regionName": "EU",
+      "countryCode": "BUL"
+    },
+    {
+      "iataCode": "SPU",
+      "name": "Split",
+      "regionName": "EU",
+      "countryCode": "CRO"
+    },
+    {
+      "iataCode": "STN",
+      "name": "London Stansted",
+      "regionName": "UK",
+      "countryCode": "UK"
+    },
+    {
+      "iataCode": "STR",
+      "name": "Stuttgart",
+      "regionName": "EU",
+      "countryCode": "GER"
+    },
+    {
+      "iataCode": "SUF",
+      "name": "Lamezia",
+      "regionName": "EU",
+      "countryCode": "ITA"
+    },
+    {
+      "iataCode": "SVO",
+      "name": "Moscow Sheremetyevo",
+      "regionName": "RUS",
+      "countryCode": "RUS"
+    },
+    {
+      "iataCode": "SVQ",
+      "name": "Seville",
+      "regionName": "EU",
+      "countryCode": "SPA"
+    },
+    {
+      "iataCode": "SXB",
+      "name": "Strasbourg",
+      "regionName": "EU",
+      "countryCode": "FRA"
+    },
+    {
+      "iataCode": "SXF",
+      "name": "Berlin Schönefeld",
+      "regionName": "EU",
+      "countryCode": "GER"
+    },
+    {
+      "iataCode": "SZG",
+      "name": "Salzburg",
+      "regionName": "EU",
+      "countryCode": "AUS"
+    },
+    {
+      "iataCode": "SZY",
+      "name": "Olsztyn - Mazury",
+      "regionName": "EU",
+      "countryCode": "POL"
+    },
+    {
+      "iataCode": "SZZ",
+      "name": "Szczecin",
+      "regionName": "EU",
+      "countryCode": "POL"
+    },
+    {
+      "iataCode": "TBS",
+      "name": "Tbilisi",
+      "regionName": "OTHER",
+      "countryCode": "GRG"
+    },
+    {
+      "iataCode": "TER",
+      "name": "Terceira Lajes",
+      "regionName": "EU",
+      "countryCode": "POR"
+    },
+    {
+      "iataCode": "TFN",
+      "name": "Tenerife North",
+      "regionName": "EU",
+      "countryCode": "SPA"
+    },
+    {
+      "iataCode": "TFS",
+      "name": "Tenerife South",
+      "regionName": "EU",
+      "countryCode": "SPA"
+    },
+    {
+      "iataCode": "TGD",
+      "name": "Podgorica",
+      "regionName": "EU",
+      "countryCode": "CNG"
+    },
+    {
+      "iataCode": "TLL",
+      "name": "Tallinn",
+      "regionName": "EU",
+      "countryCode": "EST"
+    },
+    {
+      "iataCode": "TLS",
+      "name": "Toulouse",
+      "regionName": "EU",
+      "countryCode": "FRA"
+    },
+    {
+      "iataCode": "TLV",
+      "name": "Tel Aviv",
+      "regionName": "OTHER",
+      "countryCode": "IZR"
+    },
+    {
+      "iataCode": "TMP",
+      "name": "Tampere",
+      "regionName": "EU",
+      "countryCode": "FI"
+    },
+    {
+      "iataCode": "TNG",
+      "name": "Tangier",
+      "regionName": "AFR",
+      "countryCode": "MOR"
+    },
+    {
+      "iataCode": "TPS",
+      "name": "Trapani",
+      "regionName": "EU",
+      "countryCode": "ITA"
+    },
+    {
+      "iataCode": "TRF",
+      "name": "Oslo Torp",
+      "regionName": "EU",
+      "countryCode": "NO"
+    },
+    {
+      "iataCode": "TRN",
+      "name": "Turin",
+      "regionName": "EU",
+      "countryCode": "ITA"
+    },
+    {
+      "iataCode": "TRS",
+      "name": "Trieste",
+      "regionName": "EU",
+      "countryCode": "ITA"
+    },
+    {
+      "iataCode": "TSF",
+      "name": "Venice Treviso",
+      "regionName": "EU",
+      "countryCode": "ITA"
+    },
+    {
+      "iataCode": "TSR",
+      "name": "Timisoara",
+      "regionName": "EU",
+      "countryCode": "ROM"
+    },
+    {
+      "iataCode": "TTU",
+      "name": "Tétouan",
+      "regionName": "AFR",
+      "countryCode": "MOR"
+    },
+    {
+      "iataCode": "TUF",
+      "name": "Tours Loire Valley",
+      "regionName": "EU",
+      "countryCode": "FRA"
+    },
+    {
+      "iataCode": "TUN",
+      "name": "Tunis",
+      "regionName": "AFR",
+      "countryCode": "TUN"
+    },
+    {
+      "iataCode": "TXL",
+      "name": "Berlin Tegel",
+      "regionName": "EU",
+      "countryCode": "GER"
+    },
+    {
+      "iataCode": "VAR",
+      "name": "Varna",
+      "regionName": "EU",
+      "countryCode": "BUL"
+    },
+    {
+      "iataCode": "VCE",
+      "name": "Venice M.Polo",
+      "regionName": "EU",
+      "countryCode": "ITA"
+    },
+    {
+      "iataCode": "VDA",
+      "name": "Ovda",
+      "regionName": "OTHER",
+      "countryCode": "ISR"
+    },
+    {
+      "iataCode": "VGO",
+      "name": "Vigo",
+      "regionName": "EU",
+      "countryCode": "SPA"
+    },
+    {
+      "iataCode": "VIE",
+      "name": "Vienna",
+      "regionName": "EU",
+      "countryCode": "AUS"
+    },
+    {
+      "iataCode": "VIT",
+      "name": "Vitoria (Basque Country)",
+      "regionName": "EU",
+      "countryCode": "SPA"
+    },
+    {
+      "iataCode": "VLC",
+      "name": "Valencia",
+      "regionName": "EU",
+      "countryCode": "SPA"
+    },
+    {
+      "iataCode": "VLL",
+      "name": "Valladolid",
+      "regionName": "EU",
+      "countryCode": "SPA"
+    },
+    {
+      "iataCode": "VNO",
+      "name": "Vilnius",
+      "regionName": "EU",
+      "countryCode": "LIT"
+    },
+    {
+      "iataCode": "VRN",
+      "name": "Verona",
+      "regionName": "EU",
+      "countryCode": "ITA"
+    },
+    {
+      "iataCode": "VST",
+      "name": "Stockholm Västerås",
+      "regionName": "EU",
+      "countryCode": "SE"
+    },
+    {
+      "iataCode": "VXO",
+      "name": "Växjö Småland",
+      "regionName": "EU",
+      "countryCode": "SE"
+    },
+    {
+      "iataCode": "WAW",
+      "name": "Warsaw Chopin",
+      "regionName": "EU",
+      "countryCode": "POL"
+    },
+    {
+      "iataCode": "WMI",
+      "name": "Warsaw Modlin",
+      "regionName": "EU",
+      "countryCode": "POL"
+    },
+    {
+      "iataCode": "WRO",
+      "name": "Wroclaw",
+      "regionName": "EU",
+      "countryCode": "POL"
+    },
+    {
+      "iataCode": "XCR",
+      "name": "Paris Vatry",
+      "regionName": "EU",
+      "countryCode": "FRA"
+    },
+    {
+      "iataCode": "XRY",
+      "name": "Jerez",
+      "regionName": "EU",
+      "countryCode": "SPA"
+    },
+    {
+      "iataCode": "ZAD",
+      "name": "Zadar",
+      "regionName": "EU",
+      "countryCode": "CRO"
+    },
+    {
+      "iataCode": "ZAZ",
+      "name": "Zaragoza",
+      "regionName": "EU",
+      "countryCode": "SPA"
+    },
+    {
+      "iataCode": "ZRH",
+      "name": "Zurich",
+      "regionName": "EU",
+      "countryCode": "SWE"
+    },
+    {
+      "iataCode": "ZTH",
+      "name": "Zakynthos",
+      "regionName": "EU",
+      "countryCode": "GRE"
+    }
+  ]
+}
